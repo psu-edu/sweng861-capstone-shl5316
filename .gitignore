@@ -1,0 +1,71 @@
+.DS_Store
+.env
+*.env
+.env.local
+.env.*.local
+secrets/
+api_keys
+apikeys
+api_keys.*
+# Node modules
+node_modules/
+# Logs
+logs/
+*.log
+npm-debug.log*
+# macOS
+.DS_Store
+# IDEs
+.vscode/
+.idea/
+# Python
+__pycache__/
+*.py[cod]
+# Build
+dist/
+build/
+# Coverage
+coverage/
+# Ignore system and sensitive files
+*.pem
+*.key
+credentials.json
+*.crt
+# dotenv files
+.env
+.env.*
+
+# Maven / Java / IDE
+should i use this - HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
