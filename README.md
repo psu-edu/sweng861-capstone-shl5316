@@ -4,5 +4,5 @@
 
 * **Name:** Samuel Lee
 * **Course Name:** SWENG 861 – Software Construction
-* **Project Idea:** Task & Project Tracker API (Jira-lite)
-* **Description:** A robust backend service for managing users, projects, tasks, and comments featuring role-based workflows (To Do, In Progress, Done). Designed to demonstrate clean architecture, complex relational mappings, and comprehensive input validation.
+* **Project Idea:** Campus Project & Task Scheduler
+* **Description:** A secure backend service designed for campus academic collaboration, enabling students and faculty to manage projects, track tasks across status workflows (To Do, In Progress, Done), and coordinate coursework with clean architecture and robust role-based security.
